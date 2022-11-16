@@ -8,7 +8,7 @@
 
 # Synopsis
 
-Collection of art created by Python.
+Collection of art created using Python.
 
 Back to [Contents](#Header)
 
@@ -20,8 +20,10 @@ Back to [Contents](#Header)
 
 # Acknowledgements
 
-Art ideas and code were provided by:
+Some of the art ideas and code were provided by:
 
 [Pythondex](https://pythondex.com/)
+
+[Pythonista Planet](https://pythonistaplanet.com/)
 
 Back to [Contents](#Header)
